@@ -24,6 +24,8 @@ export const profile = {
   ],
   summary:
     "Final-year BS Artificial Intelligence student with real-world industry experience delivering AI-powered applications for international clients. Built and deployed production-grade systems including facial recognition, anti-phishing ML tools, RAG chatbots, and full-stack AI platforms using Python, OpenAI APIs, TensorFlow, PyTorch, and Scikit-learn. Proven ability to develop, test, and optimize AI models end-to-end — from data pipelines to deployed REST APIs and React frontends. Passionate about Generative AI, LLMs, prompt engineering, and emerging AI technologies.",
+  location: "Islamabad, Pakistan",
+  phone: "+92-310-0558934",
   email: "eishawahid25@gmail.com",
   linkedin: "https://www.linkedin.com/in/eisha-wahid/",
   github: "https://github.com/eshawahid",
@@ -226,10 +228,10 @@ export const achievements = [
   { title: "Hult Prize 2025", detail: "Top 50 Nationwide" },
   {
     title: "AI Wrapper Competition",
-    detail: "Top 10 Nationwide — hosted by NIC (National Incubation Center Islamabad) ",
+    detail: "Top 10 Nationwide — hosted by Ignite in collaboration with NIC",
   },
   { title: "Speed Programming Competition", detail: "3rd Position" },
-  { title: "Sofec-Fast University", detail: "Data Visualization" },
+  { title: "DataQuest Competition", detail: "Competitor" },
 ];
 
 export const volunteering = [
@@ -239,26 +241,11 @@ export const volunteering = [
     description:
       "Supported event operations and public engagement at DataFest, contributing to a national data-literacy initiative run by PBS.",
   },
-  {
-    title: "Core Member — AUDAS Society",
-    org: "Air University, Islamabad",
-    description:
-      "Supported society events, coordination, and student engagement activities within AUDAS Society.",
-  },
-  {
-    title: "Member — Animal Welfare Society",
-    org: "Air University, Islamabad",
-    description:
-      "Contributed to volunteer initiatives focused on animal welfare awareness, outreach, and campus community support.",
-  },
 ];
 
 export const certifications = [
   { title: "Power BI for Data Analytics", issuer: "DataCamp" },
   { title: "Machine Learning", issuer: "DataCamp" },
-  { title: "Generative AI Overview for Project Managers", issuer: "PMI" },
-  { title: "PMI Essentials: Seven AI Project Patterns", issuer: "PMI" },
-  { title: "Talking to AI: Prompt Engineering for Project Managers", issuer: "PMI" },
 ];
 
 export const stats = [
