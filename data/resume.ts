@@ -246,6 +246,9 @@ export const volunteering = [
 export const certifications = [
   { title: "Power BI for Data Analytics", issuer: "DataCamp" },
   { title: "Machine Learning", issuer: "DataCamp" },
+  { title: "Generative AI Overview for Project Managers", issuer: "PMI" },
+  { title: "PMI Essentials: Seven AI Project Patterns", issuer: "PMI" },
+  { title: "Talking to AI: Prompt Engineering for Project Managers", issuer: "PMI" },
 ];
 
 export const stats = [
